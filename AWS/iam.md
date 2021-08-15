@@ -4,10 +4,10 @@ AWS **`Identity and Access Management`** (IAM) enables you to manage access to A
 
 ### **IAM**  
 ---
--   ***GROUPS***
--   ***USERS***
--   ***ROLES***
--   ***POLICIES***  
+-   **GROUPS**
+-   **USERS**
+-   **ROLES**
+-   **POLICIES**  
     -   **aws defined policies**
     -   **user defined polices**  
 
