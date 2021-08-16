@@ -4,12 +4,12 @@ AWS **`Identity and Access Management`** (IAM) enables you to manage access to A
 
 ### **IAM**  
 ---
--   **GROUPS**
--   **USERS**
--   **ROLES**
--   **POLICIES**  
-    -   **aws defined policies**
-    -   **user defined polices**  
+-   GROUPS
+-   USERS
+-   ROLES
+-   POLICIES  
+    -   aws defined policies
+    -   user defined polices  
 
 **polices defind in _***JSON***_ forrmate.**  
 
@@ -27,4 +27,4 @@ AWS **`Identity and Access Management`** (IAM) enables you to manage access to A
 -   Point of presence
 -   Backbone network  
 
-***ARN ( amezon resource name )***  
+**ARN** ( amezon resource name )  
