@@ -112,6 +112,7 @@ There is one important environmental variable which is PATH. PATH variable will 
 echo $PATH
 ```
 **Using Text Editors**  
-Every linux generally has a text editor which is vim.
-To learn using vim please refer [here](https://www.openvim.com/)
-Other editor is nano
+- Every linux generally has a text editor 
+- hich is vim.
+- To learn using vim please refer [here](https://www.openvim.com/)
+- Other editor is nano
