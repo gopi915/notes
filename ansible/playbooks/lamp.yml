@@ -1,0 +1,16 @@
+---
+- hosts: all
+  become: yes
+  tasks:
+  - name: upate packages & install apache2
+    package:
+      name: "{{ webserver_package }}"
+      state: present
+      update_cache: yes
+    notify:
+    - restart apache
+  handlers:
+  - name: restart apache
+    service:
+        name: "{{ webserver_package }}"
+        state: restarted
